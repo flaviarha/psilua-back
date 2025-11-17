@@ -99,12 +99,6 @@ Configuração em `core/database.py`. Por padrão o projeto pode usar SQLite par
 
 Para dúvidas, abra uma issue ou contacte o mantenedor do repositório.
 
+https://github.com/flaviarha/psilua-back
 ---
 
-Se quiser, eu posso:
-
-- adicionar exemplos concretos de rotas (abrindo `routers/` para mapear verbos e caminhos);
-- preencher `.env.example` com variáveis esperadas;
-- gerar um arquivo `docs/` com exemplos de requisições.
-
-Diga qual destes próximos passos prefere.
